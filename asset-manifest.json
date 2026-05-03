@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Food-delivery-web-app-Zomato-inspired/static/css/main.af0ac71c.css",
+    "main.js": "/Food-delivery-web-app-Zomato-inspired/static/js/main.5abe077c.js",
+    "static/js/453.4d026895.chunk.js": "/Food-delivery-web-app-Zomato-inspired/static/js/453.4d026895.chunk.js",
+    "static/media/burger.png": "/Food-delivery-web-app-Zomato-inspired/static/media/burger.38a3e13b0a3ccc2067ba.png",
+    "static/media/diningout.jpg": "/Food-delivery-web-app-Zomato-inspired/static/media/diningout.117874c3c9cda95f2c2d.jpg",
+    "static/media/Burger_King_logo.png": "/Food-delivery-web-app-Zomato-inspired/static/media/Burger_King_logo.d500a66fa640532984b3.png",
+    "static/media/cake.jpg": "/Food-delivery-web-app-Zomato-inspired/static/media/cake.09db2da43429f7c0c58c.jpg",
+    "static/media/pastry.avif": "/Food-delivery-web-app-Zomato-inspired/static/media/pastry.18864948cdd35972eacc.avif",
+    "static/media/pizza.avif": "/Food-delivery-web-app-Zomato-inspired/static/media/pizza.d8435b57ccd9d7a1df3f.avif",
+    "static/media/kwalitywalls.jpg": "/Food-delivery-web-app-Zomato-inspired/static/media/kwalitywalls.fa13b864f02c75c86834.jpg",
+    "static/media/rolls.webp": "/Food-delivery-web-app-Zomato-inspired/static/media/rolls.c6ba3ce5f6bbc8c38237.webp",
+    "static/media/biryanibykilo.avif": "/Food-delivery-web-app-Zomato-inspired/static/media/biryanibykilo.cc810e4c2ac12e262ff1.avif",
+    "static/media/starbucks.png": "/Food-delivery-web-app-Zomato-inspired/static/media/starbucks.d0062c53beedcf4bdaa7.png",
+    "static/media/profile.avif": "/Food-delivery-web-app-Zomato-inspired/static/media/profile.71f8487b6ac31be29ec2.avif",
+    "static/media/biryani.avif": "/Food-delivery-web-app-Zomato-inspired/static/media/biryani.f983d3503ababbbad10d.avif",
+    "static/media/dominos.avif": "/Food-delivery-web-app-Zomato-inspired/static/media/dominos.e2e47233b4eb36798c28.avif",
+    "static/media/nightlife.jpg": "/Food-delivery-web-app-Zomato-inspired/static/media/nightlife.9f23f92571625420ee4d.jpg",
+    "static/media/bakingo.png": "/Food-delivery-web-app-Zomato-inspired/static/media/bakingo.c8c77d7354fe0e62b3cb.png",
+    "static/media/inactivedining.jpg": "/Food-delivery-web-app-Zomato-inspired/static/media/inactivedining.9d3fd12573b979490178.jpg",
+    "static/media/paneer.jpg": "/Food-delivery-web-app-Zomato-inspired/static/media/paneer.73a7e76ef42dd05cdbc4.jpg",
+    "static/media/inactive.webp": "/Food-delivery-web-app-Zomato-inspired/static/media/inactive.d5a1b54e44a872ef9c95.webp",
+    "static/media/chaat.avif": "/Food-delivery-web-app-Zomato-inspired/static/media/chaat.3e71b0f2f8296368c61f.avif",
+    "static/media/inactivenightlife.webp": "/Food-delivery-web-app-Zomato-inspired/static/media/inactivenightlife.fbcaf216d841323100a0.webp",
+    "static/media/momos.jpg": "/Food-delivery-web-app-Zomato-inspired/static/media/momos.159ebfa09d5e55901a12.jpg",
+    "static/media/kfc.jpg": "/Food-delivery-web-app-Zomato-inspired/static/media/kfc.7de42f9f2a4f78c491e3.jpg",
+    "static/media/paratha.jpg": "/Food-delivery-web-app-Zomato-inspired/static/media/paratha.9ff85a8216eb15c63575.jpg",
+    "static/media/delivery.avif": "/Food-delivery-web-app-Zomato-inspired/static/media/delivery.11263b67b6a6109c28f4.avif",
+    "static/media/slick.svg": "/Food-delivery-web-app-Zomato-inspired/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Food-delivery-web-app-Zomato-inspired/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Food-delivery-web-app-Zomato-inspired/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Food-delivery-web-app-Zomato-inspired/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Food-delivery-web-app-Zomato-inspired/index.html",
+    "main.af0ac71c.css.map": "/Food-delivery-web-app-Zomato-inspired/static/css/main.af0ac71c.css.map",
+    "main.5abe077c.js.map": "/Food-delivery-web-app-Zomato-inspired/static/js/main.5abe077c.js.map",
+    "453.4d026895.chunk.js.map": "/Food-delivery-web-app-Zomato-inspired/static/js/453.4d026895.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af0ac71c.css",
+    "static/js/main.5abe077c.js"
+  ]
+}
