@@ -1,7 +1,15 @@
-import React from "react";
+import React from 'react'
+import './filter.css';
+import FilterItem from './filterItem';
 
-const Footer = () => {
-  return <div className="absolute-center">Made with 🔥 by Overreacted</div>;
+const Filters = ({filterList})=> {
+    return (
+        <div className='filter'>
+           {filterList && filterList.map((filter)=>{
+            return <FilterItem filter={filter} key={filter.id} />
+           })}
+        </div>
+    );
 };
 
-export default Footer;
+export default Filters;
